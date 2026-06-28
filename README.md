@@ -406,15 +406,20 @@ Answer
 
 ---
 
+
 # 📸 Demo
 
-```markdown
-![Transcript_Metadata](frontend/assets/video_loaded.png)
+<p align="center">
+  <img src="frontend/assets/video_loaded.png" width="800">
+</p>
 
-![Chat](frontend/assets/chat.png)
+<p align="center">
+  <img src="frontend/assets/chat.png" width="800">
+</p>
 
-![Swagger](frontend/assets/swagger.png)
-```
+<p align="center">
+  <img src="frontend/assets/swagger.png" width="800">
+</p>
 
 ---
 
