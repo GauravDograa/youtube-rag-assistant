@@ -406,30 +406,14 @@ Answer
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots inside the `assets` folder.
-
-Example
-
-```
-assets/
-
-video_loaded.png
-
-chat.png
-
-swagger.png
-```
-
-Then include
+# 📸 Demo
 
 ```markdown
-![Transcript_Metadata](assets/video_loaded.png)
+![Transcript_Metadata](frontend/assets/video_loaded.png)
 
-![Chat](assets/chat.png)
+![Chat](frontend/assets/chat.png)
 
-![Swagger](assets/swagger.png)
+![Swagger](frontend/assets/swagger.png)
 ```
 
 ---
